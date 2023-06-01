@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Power BI.</strong>
+  💼 Ferramentas: <strong>Power BI</strong>
 </p>
 
 <p align="left">
