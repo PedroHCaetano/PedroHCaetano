@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Pedro Henrique Caetano e estou no 2º Período de <strong>Ciência de Computação</strong>.<br>
-  Estou em busca da minha primeira oportunidade de estágio.
+  Graduando em <strong>Ciência da computação</strong>.<br> (2º Periodo), entusiasta da área de dados e programação BackEnd.
+  Aberto a novas oportunidades de emprego.
 </p>
 
 <p align="left">
