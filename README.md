@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Profissional graduando em Ciência da Computação, buscando capacitação de qualidade para a área de desenvolvimento de dados com atuação na prestação de suporte técnico aos usuários, empenhando-se em solucionar problemas recebidos via chamados;.
+  Profissional graduando em Ciência da Computação, [...] -irei atualizar em breve- 
 Grande entusiasta na área de dados e desenvolvimento Fullstack.
 </p>
 
