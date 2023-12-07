@@ -6,7 +6,7 @@ Grande entusiasta na área de dados e desenvolvimento Fullstack.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, JavaScript, SQL, ETL</strong>
+  🦄 Habilidades: <strong>Python, SQL, ETL, JavaScript</strong>
 </p>
 
 <p align="left">
