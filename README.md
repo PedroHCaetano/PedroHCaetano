@@ -35,18 +35,11 @@
 
 <br/>
 
-<a href="https://github.com/PedroHCaetano" title="Perfil do Pedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHCaetano&theme=dracula&show_icons=true" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHCaetano&layout=donut&theme=synthwave)](https://github.com/PedroHCaetano/github-readme-stats)
+<img align="right" width="230" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199521471899377754/Design_sem_nome_2.gif?ex=65c2d86c&is=65b0636c&hm=0e211578ac41905e0ceed884e192519772180c3b56df15e1a2472baefa7beb1a&">
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-pedrocaetanopc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocaetanopc/)](https://www.linkedin.com/in/pedrocaetanopc/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrocaetano.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocaetano.dev@gmail.com)](mailto:pedrocaetano.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PedroHCaetano?label=follow&style=social)](https://github.com/PedroHCaetano)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StephanieSouzaC/StephanieSouzaC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StephanieSouzaC/StephanieSouzaC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StephanieSouzaC/StephanieSouzaC/output/github-contribution-grid-snake.svg">
-</picture>
