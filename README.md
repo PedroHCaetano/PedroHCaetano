@@ -35,7 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Pedro">
+<a href="https://github.com/PedroHCaetano" title="Perfil do Pedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHCaetano&theme=dracula&show_icons=true" />
 </a>
 
